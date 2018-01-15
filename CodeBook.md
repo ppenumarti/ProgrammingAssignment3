@@ -1,4 +1,5 @@
-tidyMeans.txt file provides 180 observations. 
+Executing the function runAnalysis in the script run_analysis.R in R-environment produces data file tidyMeans.txt 
+
 There are 6 different activities of 30 subjects.
 The first row is the header containing the names of each variable as listed below.
 Each subject performs activity Laying, Sitting, Standing, Walking, Walking Downstairs, Walking Upstairs.
